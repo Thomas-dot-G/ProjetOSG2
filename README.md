@@ -8,5 +8,3 @@ Pour inséré le code dans un arduino, sans utilisé l'IDE arduino:
 
 
 ## Groupe 2
-
-## Notez les noms ici
